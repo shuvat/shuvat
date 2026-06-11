@@ -2,7 +2,7 @@
 
 ### Software Developer | B.Sc. Computer Science Student @ Bar-Ilan University
 
-I'm passionate about **backend development** and **agentic AI systems** — I love building intelligent automation and efficient technical solutions that solve real-world problems. Experienced in real-time operational analysis and problem-solving under pressure.
+I'm passionate about **backend development** and **agentic AI systems**. I love building intelligent automation and efficient technical solutions that solve real-world problems. Experienced in real-time operational analysis and problem-solving under pressure.
 
 🎯 **Currently looking for:** a role focused on developing agentic AI systems and intelligent automation.
 
